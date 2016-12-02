@@ -1,5 +1,6 @@
 Installation
-
+ This starter is for the youtube tutorial series. I have a better starter kit at https://github.com/DZuz14/react-starter-2.0 for your other project purposes. Do not use starter2.0 for the tutorial to avoid confusion.
+ 
 1.) <code>git clone https://github.com/DZuz14/react-starter</code> <br>
 2.) <code>npm install</code> <br>
 3.) <code>npm start</code> <br>
